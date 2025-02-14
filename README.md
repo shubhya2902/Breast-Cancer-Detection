@@ -1,3 +1,10 @@
+# Add Your Email and App password
+
+Setting.py > Find SMTP SERVER
+
+Enter your email. and app password.
+
+
 # create virual enviroenment using following commands.
 pip install virtualenv
 
